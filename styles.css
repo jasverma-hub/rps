@@ -1,0 +1,19 @@
+body {
+  background-color: bisque;
+}
+
+h1 {
+  color: brown;
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin: 20px auto;
+  width: 10%;
+  padding: 15px;
+  font-size: 1.438rem;
+  background-color: brown;
+  border: 3px solid burlywood;
+  cursor: pointer;
+}
